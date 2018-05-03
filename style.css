@@ -1,3 +1,14 @@
 body {
-	background-color: silver;
+	background-image: url('https://images.pexels.com/photos/968243/pexels-photo-968243.jpeg?cs=srgb&dl=alphabet-alphabets-black-board-968243.jpg&fm=jpg');
+	background-position: center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	font-family: 'Amatic SC', cursive;
+}
+h1 {
+	width: 100%;
+	margin-top: 100px;
+	color: #fff;
+	letter-spacing: 1px;
+	font-size: 55px;
 }
